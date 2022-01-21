@@ -11,7 +11,7 @@ HotKeySet("!x","terminate")
 
 ; -- Help items --
 Global $aHelpMsg[]=["Help-> Alt+[h]","previous -> Alt+[q]","Pause -> Alt+[w]","Next -> Alt+[e]","Mute -> Alt+[m]","Exit -> Alt+[x]"]
-Global $sHelpText="Neet help? press Alt + h"
+Global $sHelpText="Need help? press Alt + h"
 
 help()
 
